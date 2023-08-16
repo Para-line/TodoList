@@ -5,7 +5,6 @@ import java.util.InputMismatchException;
 import java.util.List;
 import java.util.ListIterator;
 import java.util.Scanner;
-
 public class Display {
     TodoManager todo = new TodoManager();
     Scanner cin = new Scanner(System.in);
